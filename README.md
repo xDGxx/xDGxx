@@ -24,12 +24,6 @@
   </a>
  </div>
  
- <div align="center">
-<br><p align="center"><b>Passaram para dizer "Olá!"</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{xDGxx}/count.svg&color=2383FF" /></p>
-<br>
-</div>
- 
  # Skills in
  <div style="display: inline-block"><br>
     <img align="center" alt="figma" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
