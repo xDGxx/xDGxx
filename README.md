@@ -60,7 +60,7 @@
 
 
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00BFFF&section=footer" />
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=2383FF&section=footer" />
   
   
 </div>
