@@ -11,24 +11,24 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDGxx&theme=github_dark&layout=compact&hide_border=true" />
 </a> 
   
-   <div align="center">
-<br><p align="center"><b>Passaram para dizer "Olá!"</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{xDGxx}/count.svg" /></p>
-<br>
-</div>
-  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xDGxx&bg_color=none&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <a href="mailto:cmp.1a.cntt.dg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-2383FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/diogo-almeida-885498207/">
-    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-2383FF?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/eudg_/">
-    <img src="https://img.shields.io/badge/Instagram-00BFFF?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-2383FF?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
  </div>
+ 
+ <div align="center">
+<br><p align="center"><b>Passaram para dizer "Olá!"</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{xDGxx}/count.svg&color=2383FF" /></p>
+<br>
+</div>
  
  # Skills in
  <div style="display: inline-block"><br>
