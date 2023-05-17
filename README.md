@@ -1,18 +1,61 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2383FF&height=120&section=header"/>
+<div align=center>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00BFFF" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2383FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Diogo+Almeida;Tenho+19+anos;Moro+em+São+Paulo+,Brasil;Aluno+do+Instituto+Proa;Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=ffffff&&center=true&Center=truewidth=100%&lines=Ol%C3%A1!!+Bem-vindo(a)+ao+meu+perfil!;Hello!!+Welcome+to+my+profile!;My+name+is+Keven+and+I'm+tenho+19+years+old.;Student+at+PROA.;)](https://git.io/typing-svg)
 
-<div align="center">  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xDGxx&theme=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDGxx&theme=github_dark&layout=compact&hide_border=true" />
+</a> 
+  
+   <div align="center">
+<br><p align="center"><b>Passaram para dizer "Olá!"</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{xDGxx}/count.svg" /></p>
+<br>
 </div>
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KevenAbraham&bg_color=none&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  <a href="mailto:cmp.1a.cntt.dg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/diogo-almeida-885498207/">
+    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/eudg_/">
+    <img src="https://img.shields.io/badge/Instagram-00BFFF?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+ </div>
+ 
+ # Skills in
+ <div style="display: inline-block"><br>
+    <img align="center" alt="html5" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="css3" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="javascript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="javascript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+ </div>
+ 
+ <br><br>
+ 
+ # I'm Currently Studying
+  <div style="display: inline-block"><br>
+    <img align="center" alt="html5" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" alt="css3" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="react" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="mongodb" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="php" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+ </div>
+ 
+ 
+ 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xDGxx&bg_color=1C3C6A&text_color=9FC9FF&theme=gotham)
 
-### Conhecimentos:
- ![GitHub](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF4438&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Javascript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-
-
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00BFFF&section=footer" />
+  
+  
+</div>
+  
