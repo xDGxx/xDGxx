@@ -11,8 +11,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDGxx&theme=github_dark&layout=compact&hide_border=true" />
 </a> 
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xDGxx&bg_color=none&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
   <a href="mailto:cmp.1a.cntt.dg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-2383FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
