@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDGxx&theme=github_dark&layout=compact&hide_border=true" />
 </a> 
 
-  
+  <br>
   <a href="https://www.linkedin.com/in/diogo-almeida-885498207/">
     <img src="https://img.shields.io/badge/LinkedIn-2383FF?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
