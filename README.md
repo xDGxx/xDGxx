@@ -40,9 +40,10 @@
  # I'm Currently Studying
   <div style="display: inline-block"><br>
       
-  <img aling="center" alt="python" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   />    
+    
   <img align="center" alt="java" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="node" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="python" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="typescript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  </div>
  
