@@ -13,10 +13,10 @@
 
   <br>
   <a href="https://www.linkedin.com/in/diogo-almeida-885498207/">
-    <img src="https://img.shields.io/badge/LinkedIn-44F281?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-44F281?style=for-the-badge&logo=linkedin&logoColor=dark">
   </a>
   <a href="mailto:cmp.1a.cntt.dg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-44F281?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-44F281?style=for-the-badge&logo=gmail&logoColor=dark" />
   </a>
  </div>
  
@@ -47,7 +47,7 @@
 
 
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=2383FF&section=footer" />
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=44F281&section=footer" />
   
   
 </div>
