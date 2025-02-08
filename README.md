@@ -27,7 +27,7 @@
     <img align="center" alt="css3" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="javascript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="react" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="github" height=70 width=60 src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://sissel.gallerycdn.vsassets.io/extensions/sissel/shopify-liquid/4.0.1/1699358936199/Microsoft.VisualStudio.Services.Icons.Default)"/>  
+    <img align="center" alt="github" height=70 width=60 src="https://sissel.gallerycdn.vsassets.io/extensions/sissel/shopify-liquid/4.0.1/1699358936199/Microsoft.VisualStudio.Services.Icons.Default"/>  
     <img align="center" alt="javascript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 
      
