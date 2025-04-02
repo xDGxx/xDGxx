@@ -1,14 +1,14 @@
 <div align=center>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=44F281" />
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=44F281&&center=true&Center=truewidth=100%&lines=Ol%C3%A1+!+Bem-vindo(a)+ao+meu+perfil!;Meu+nome+é+Diogo+Almeida;Tenho+20+anos.;Sou+desenvolvedor+Front-End.;)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=0062E0&&center=true&Center=truewidth=100%&lines=Ol%C3%A1+!+Bem-vindo(a)+ao+meu+perfil!;Meu+nome+é+Diogo+Almeida;Tenho+20+anos.;Sou+desenvolvedor+Full-Stack.;)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xDGxx&theme=custom&bg_color=0d1117&title_color=44F281&icon_color=44F281&text_color=FFFFFF&hide_border=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xDGxx&theme=custom&bg_color=0d1117&title_color=0062E0&icon_color=0062E0&text_color=FFFFFF&hide_border=true&show_icons=true" />
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDGxx&theme=custom&bg_color=0d1117&title_color=44F281&icon_color=44F281&text_color=FFFFFF&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDGxx&theme=custom&bg_color=0d1117&title_color=4B8CE0&icon_color=0062E0&text_color=FFFFFF&layout=compact&hide_border=true" />
 </a> 
 
   <br>
