@@ -13,14 +13,14 @@
 
   <br>
   <a href="https://www.linkedin.com/in/diogo-almeida-885498207/">
-    <img src="https://img.shields.io/badge/LinkedIn-44F281?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-013FDC?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:cmp.1a.cntt.dg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-44F281?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-013FDC?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
  
-# Skills in
+# Possuo conhecimento 💭
 <div style="display: inline-block"><br>
     <img align="center" alt="react" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="javascript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -30,7 +30,7 @@
 
 <br><br>
 
-# I'm Currently Studying
+# Atualmente estou estudando 📚
 <div style="display: inline-block"><br>
   <img align="center" alt="java" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="python" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
