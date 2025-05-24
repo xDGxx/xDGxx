@@ -23,4 +23,11 @@
 ## 💻 **Linguagens e Frameworks**
 <p> <a href="https://www.java.com/pt-BR/"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="40"/></a></a> <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"/></a>  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40"/>  <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40"/></a></a>  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/></a> </p>
 
+## 👾 **Atividade no GitHub**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=013FDC&section=footer" />
