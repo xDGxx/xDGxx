@@ -20,21 +20,7 @@
   </a>
 </div>
  
-# Possuo conhecimento 💭
-<div style="display: inline-block"><br>
-    <img align="center" alt="react" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="javascript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="html5" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="css3" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
-
-<br><br>
-
-# Atualmente estou estudando 📚
-<div style="display: inline-block"><br>
-  <img align="center" alt="java" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="python" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="spring" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-</div>
+## 💻 **Linguagens e Frameworks**
+<p> <a href="https://www.java.com/pt-BR/"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="40"/></a></a> <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"/></a><a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40"/><a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40"/></a></a><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a> </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=013FDC&section=footer" />
