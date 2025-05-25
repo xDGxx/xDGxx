@@ -1,7 +1,7 @@
 <div align=center>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=6D6D6D" />
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=BEBEBE&&center=true&Center=truewidth=100%&lines=Ol%C3%A1+!+Bem-vindo(a)+ao+meu+perfil!;Meu+nome+é+Diogo+Almeida;Tenho+21+anos.;Sou+desenvolvedor+Full-Stack.;)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=BEBEBE&&center=true&Center=truewidth=100%&lines=Ol%C3%A1+!+Bem-vindo(a)+ao+meu+perfil!;Meu+nome+é+Diogo+Almeida;Tenho+21+anos.;Sou+desenvolvedor+Full+Stack.;)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xDGxx&theme=custom&bg_color=0d1117&title_color=BEBEBE&icon_color=BEBEBE&text_color=FFFFFF&hide_border=true&show_icons=true" />
