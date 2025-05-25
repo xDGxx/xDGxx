@@ -1,22 +1,22 @@
 <div align=center>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=FF201F" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=6D6D6D" />
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=FF201F&&center=true&Center=truewidth=100%&lines=Ol%C3%A1+!+Bem-vindo(a)+ao+meu+perfil!;Meu+nome+é+Diogo+Almeida;Tenho+21+anos.;Sou+desenvolvedor+Full-Stack.;)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=BEBEBE&&center=true&Center=truewidth=100%&lines=Ol%C3%A1+!+Bem-vindo(a)+ao+meu+perfil!;Meu+nome+é+Diogo+Almeida;Tenho+21+anos.;Sou+desenvolvedor+Full-Stack.;)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xDGxx&theme=custom&bg_color=0d1117&title_color=BA0000&icon_color=BA0000&text_color=FFFFFF&hide_border=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xDGxx&theme=custom&bg_color=0d1117&title_color=BEBEBE&icon_color=BEBEBE&text_color=FFFFFF&hide_border=true&show_icons=true" />
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDGxx&theme=custom&bg_color=0d1117&title_color=BA0000&icon_color=013FDC&text_color=FFFFFF&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDGxx&theme=custom&bg_color=0d1117&title_color=BEBEBE&icon_color=013FDC&text_color=FFFFFF&layout=compact&hide_border=true" />
 </a> 
 
   <br>
   <a href="https://www.linkedin.com/in/diogo-almeida-885498207/">
-    <img src="https://img.shields.io/badge/LinkedIn-BA0000?style=for-the-badge&logo=linkedin&logoColor=000000">
+    <img src="https://img.shields.io/badge/LinkedIn-BEBEBE?style=for-the-badge&logo=linkedin&logoColor=000000">
   </a>
   <a href="mailto:cmp.1a.cntt.dg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-BA0000?style=for-the-badge&logo=gmail&logoColor=000000" />
+    <img src="https://img.shields.io/badge/Gmail-BEBEBE?style=for-the-badge&logo=gmail&logoColor=000000" />
   </a>
 </div>
 
@@ -46,4 +46,4 @@
 </p>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=FF201F&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=6D6D6D&section=footer" />
